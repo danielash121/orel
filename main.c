@@ -1,3 +1,3 @@
 void main() {
-    printf("Orel is a genius!\n");
+    printf("Daniel is a genius!\n");
 }
